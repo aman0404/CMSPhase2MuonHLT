@@ -12,7 +12,7 @@ git cms-init
 git cms-addpkg RecoMuon/TrackerSeedGenerator
 git cms-addpkg HLTrigger/HLTfilters
 
-git clone https://github.com/kondratyevd/CMSPhase2MuonHLT.git HLTrigger/PhaseII/python/Muon
+git clone https://github.com/aman0404/CMSPhase2MuonHLT.git HLTrigger/PhaseII/python/Muon
 
 cp -r HLTrigger/PhaseII/python/Muon/Analyzers HLTrigger/
 cp -r HLTrigger/PhaseII/python/Muon/TSG/* RecoMuon/TrackerSeedGenerator/plugins/
