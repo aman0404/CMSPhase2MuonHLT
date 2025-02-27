@@ -11,6 +11,7 @@ cmsenv
 git cms-init
 git cms-addpkg RecoMuon/TrackerSeedGenerator
 git cms-addpkg HLTrigger/HLTfilters
+git cms-addpkg HLTrigger/Configuration/
 
 git clone https://github.com/aman0404/CMSPhase2MuonHLT.git HLTrigger/PhaseII/python/Muon
 
