@@ -1,11 +1,11 @@
 # CMS Phase-2 Muon HLT
 
-## Running L3 Muon reco (OI + IO) in CMSSW_11_3_0_pre3
+## Running L3 Muon reco (OI + IO) in CMSSW_14_0_9
 
 ### Setup
 ```shell
-cmsrel CMSSW_11_3_0_pre3
-cd CMSSW_11_3_0_pre3/src
+cmsrel CMSSW_14_0_9
+cd CMSSW_14_0_9/src
 cmsenv
 
 git cms-init
